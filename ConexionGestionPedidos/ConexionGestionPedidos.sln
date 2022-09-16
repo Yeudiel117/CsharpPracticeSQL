@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConexionGestionPedidos", "ConexionGestionPedidos\ConexionGestionPedidos.csproj", "{EBCF1370-2FFC-44AF-802D-62C87C9A4764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBCF1370-2FFC-44AF-802D-62C87C9A4764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCF1370-2FFC-44AF-802D-62C87C9A4764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCF1370-2FFC-44AF-802D-62C87C9A4764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCF1370-2FFC-44AF-802D-62C87C9A4764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5E027E1-C141-4B38-8BF0-9443EC90BB23}
+	EndGlobalSection
+EndGlobal
